@@ -18,6 +18,9 @@ public class Pessoa {
 
 #### Packages e Classes
 
+O que são packages? 
+As packages (pacotes) são usados para organizar e a agrupar classes relacionadas. Eles ajudam a evitar conflitos
+
 Aqui criamos um Package para aula (AulaPOO), logo após, criamos uma classe que ela é **PÚBLICA**, porque pública? porque ela precisa ser vista por todo a estrutura, para que ela possa ser chamada na instância. Na classe colocamos as características das pessoas, que são:
 - Nome (String)
 - Idade (Int)
