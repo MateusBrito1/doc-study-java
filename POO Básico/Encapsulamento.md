@@ -91,3 +91,21 @@ Aqui eu coloco como private o número da conta, titular e saldo.
 3. **Flexibilidade:** Você pode adicionar validações, lógica de negócios o tratamento de exceção dentro dos métodos de acesso (getters e setters), no caso, ali dentro do getSaldo ou algo do tipo, você pode fazer uma lógica naquele escopo.
 
 Pode-se aplicar o encapsulamento usando modificadores de acesso, como "private", "protected", "public" e "default" (pacote), para controlar a visibilidade de atributos e métodos. Geralmente, os atributos declarados como "private", e métodos públicos (Getters e Setters) são fornecidos para acessar e modificar esses atributos. 
+
+### Valores Padrões
+Por exemplo, se eu quero que a idade, saldo ou algo do tipo seja FIXO, eu vou ter que criar um constructor desse jeito aqui, por exemplo:
+
+```Java
+public class ContaBancaria {  
+    private String numero;  
+    private String titular;  
+    private double saldo;  
+  
+  
+    //Constructor  
+    public ContaBancaria() {  
+        saldo = 0.0;  
+    }
+```
+
+Desse jeito aqui, o saldo vai sempre se permanecer em 0,0 reais. Não vai dar para altera-lo. E tendo isso, você não precisa usar um Setter nele. Apenas o get.
