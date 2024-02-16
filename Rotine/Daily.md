@@ -6,6 +6,6 @@
 
 ## 16-2
 
-- [ ] Estudar mais de 3h
-- [ ] Anotação sobre 
-- [ ] Estudei sobre 
+- [ ] Estudar 3h
+- [ ] Anotação
+- [ ] Estudar sobre try/catch
