@@ -12,6 +12,7 @@ Aluno:
 - Número de matricula 
 ### E como herdar as coisas da classe da Pessoa padrão?
 Vamos fazer do seguinte jeito.
+#HerançaDraw
 
 ```Java
 public class Professor extends Pessoa {  
@@ -66,3 +67,5 @@ public class Aluno extends Pessoa{
 ```
 
 Aqui vemos na prática de como é usado.
+
+
