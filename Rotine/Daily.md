@@ -6,6 +6,15 @@
 
 ## 16-2
 
-- [ ] Estudar 3h
-- [ ] Anotação
-- [ ] Estudar sobre try/catch
+- [x] Estudar 3h
+     - [x]  Assuntos: Wrapper Classes
+     - [x] Inicio nos estudos de Spring Boot
+- [x] Anotação
+- [x] Estudar sobre try/catch
+- [ ] Pomodoro 3/4
+
+## 17-2
+
+- [ ] Estudar pelo menos 2h
+- [ ] Pomodoro 1/2
+- [ ] Anotar algumas coisas de spring boot
