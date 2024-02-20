@@ -1,5 +1,4 @@
- ## 15-02
-
+## 15-2
 - [x] Estudei construtor
 - [x] Anotei sobre construtor
 - [x] Estudei mais de 3h
@@ -21,9 +20,7 @@
 
 ## 18-2
 
-Nothing.
-
-
+Domingo.
 ## 19-2 
 
 - [x] Estudar 3h
@@ -43,5 +40,4 @@ Nothing.
 - [ ] Estudar SpringBoot
 - [ ] Duolingo pelo menos 10minutos
 - [ ] Entender mais sobre API REST
-- [ ] Daily 10h00
-
+- [ ] Daily 14h00
