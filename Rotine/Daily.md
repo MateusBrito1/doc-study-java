@@ -1,4 +1,4 @@
-## 15-02
+ ## 15-02
 
 - [x] Estudei construtor
 - [x] Anotei sobre construtor
@@ -18,3 +18,30 @@
 - [ ] Estudar pelo menos 2h
 - [ ] Pomodoro 1/2
 - [ ] Anotar algumas coisas de spring boot
+
+## 18-2
+
+Nothing.
+
+
+## 19-2 
+
+- [x] Estudar 3h
+- [x] Pomodoro 4/4
+- [x] Documentar estudo
+- [x] Estudar SpringBoot
+- [ ] Marcar exame
+	Marcar amanhã.
+- [x] Duolingo
+- [x] Comecei estudos sobre REST API e anotei sobre
+
+## 20-2
+
+- [ ] Estudar 3h
+- [ ] Pomodoro 0/4
+- [ ] Documentar estudo
+- [ ] Estudar SpringBoot
+- [ ] Duolingo pelo menos 10minutos
+- [ ] Entender mais sobre API REST
+- [ ] Daily 10h00
+

@@ -1,0 +1,2 @@
+O SpringBootApplication tem que estar na nossa pasta de aplicação principal. Ele é o ponto inicial de qualquer projeto que estivermos fazendo, precisa dele para startar o springboot
+Se ele não estiver lá, não tem como rodar o projeto.
