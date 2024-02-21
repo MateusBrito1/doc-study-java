@@ -27,17 +27,17 @@ Domingo.
 - [x] Pomodoro 4/4
 - [x] Documentar estudo
 - [x] Estudar SpringBoot
-- [ ] Marcar exame
-	Marcar amanhã.
+- [x] Marcar exame
+	 Marcado para o dia 26-02
 - [x] Duolingo
 - [x] Comecei estudos sobre REST API e anotei sobre
 
 ## 20-2
 
-- [ ] Estudar 3h
-- [ ] Pomodoro 0/4
-- [ ] Documentar estudo
-- [ ] Estudar SpringBoot
-- [ ] Duolingo pelo menos 10minutos
-- [ ] Entender mais sobre API REST
-- [ ] Daily 14h00
+- [x] Estudar 3h
+- [ ] Pomodoro 5/7
+- [x] Documentar estudo
+- [x] Estudar SpringBoot
+- [x] Duolingo pelo menos 10minutos
+- [x] Entender mais sobre API REST
+- [x] Call sobre MicroServices e Regras de negócios
