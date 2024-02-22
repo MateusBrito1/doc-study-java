@@ -41,3 +41,21 @@ Domingo.
 - [x] Duolingo pelo menos 10minutos
 - [x] Entender mais sobre API REST
 - [x] Call sobre MicroServices e Regras de negócios
+
+## 21-2
+
+ - [x] Estudar 3h
+ - [x] Pomodoro 5/5
+ - [x] Documentar Estudo
+ - [x] Estudar SpringBoot
+ - [x] Duolingo pelo menos 10 minutos
+ - [x] Entender mais sobre API REST/Controllers/Annotations
+
+## 22 - 2
+
+- [ ]  Estudar pela a manhã toda (3h)
+- [ ]  Acordar 8h/7h30
+- [ ]  Sair a tarde 
+- [ ]  Duolingo pelo menos 10 minutos
+- [ ]  Continuar estudo do projeto do curso
+- [ ]  Revisar se entendi sobre: Annotation, API REST, Parâmetro de    Requisição/Controllers
