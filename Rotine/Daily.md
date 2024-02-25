@@ -51,11 +51,27 @@ Domingo.
  - [x] Duolingo pelo menos 10 minutos
  - [x] Entender mais sobre API REST/Controllers/Annotations
 
-## 22 - 2
+## 22-2
 
 - [ ]  Estudar pela a manhã toda (3h)
 - [ ]  Acordar 8h/7h30
-- [ ]  Sair a tarde 
-- [ ]  Duolingo pelo menos 10 minutos
-- [ ]  Continuar estudo do projeto do curso
+- [x]  Sair a tarde 
+- [x]  Duolingo pelo menos 10 minutos
+- [x]  Continuar estudo do projeto do curso
 - [ ]  Revisar se entendi sobre: Annotation, API REST, Parâmetro de    Requisição/Controllers
+
+## 23-2
+
+- [x] Vou sair pela manhã, não vou conseguir estudar
+- [ ] Estudar 3h pela tarde
+- [x] Duolingo pelo menos 10 minutos
+- [ ] Revisar se entendi sobre: Annotation, API REST, Parâmetro de    Requisição/Controllers
+- [ ] Continuar projeto de Gestão de Vagas.
+- [ ] Anotar estudos
+
+## 24-2
+
+- [x] Estudar 3h pela tarde
+- [x] Continuar projeto de Gestão de vagas
+- [x] Anotar/Documentar sobre os assuntos
+- [ ] Duolingo pelo menos 10 minutos
