@@ -4,7 +4,7 @@ Motivos pelo quais o encapsulamento é importante:
 
 1. **Segurança de dados:** Ao ocultar os detalhes internos de uma classe, você evita que dados sensíveis ou críticos sejam inadvertidamente ou intencionalmente alterados/modificados ou acessados de maneiras inadequadas. Por exemplo: 
 
-Nesse código que eu fiz, é a representação de uma conta bancária e na conta bancária eu quero que nada seja alterado, apenas irei settar, e a única coisa que será 'alterado' será o saldo/saque/depósito, que será o cliente que irá fazer. 
+Nesse código que eu fiz, é a representação de uma conta bancária e na conta bancária eu quero que nada seja alterado, apenas irei settar, e a única coisa que será 'alterado' será o saldo/saque/depósito, que será o cliente que irá fazer.
 
 ```Java
 public class TesteContaBancaria {  
