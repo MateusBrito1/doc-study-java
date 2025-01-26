@@ -4,6 +4,7 @@ O ResponseEntity é uma classe fundamental que retorna respostas HTTP personaliz
 - O ResponseEntity representa toda a resposta HTTP: o corpo (body), cabeçalhos (headers) e os status.
 #### Por que usá-lo?
 - Ele oferece mais flexibilidade do que simplesmente retornar um objeto como resposta. Com o ResponseEntity, você pode definir explicitamente o código de status HTTP, os cabeçalhos da resposta e o corpo da resposta.
+  oiiii
 #### Como usá-lo? 
 - Você pode criar um ResponseEntity usando um construtor que aceita o corpo da resposta, os cabeçalhos (headers) e o código do status. Por exemplo:
 - ![[Tipos de ResponseEntity.png]]
