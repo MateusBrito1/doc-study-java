@@ -13,7 +13,7 @@ O principal objetivo deste repositório é documentar meu progresso na linguagem
 - Estruturas de Dados e Algoritmos
 - Frameworks e Bibliotecas Java
 - Projetos Práticos e Desafios de Programação
-- SpringBoot
+- Spring Boot
 
 📖 Fonte de Estudos
 
