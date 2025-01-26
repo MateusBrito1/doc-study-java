@@ -1,5 +1,5 @@
 
- Em Java, a interface `List` faz parte da API de Collections e representa uma coleção **ordenada** de elementos, onde você pode acessar elementos por índice. No caso, se você quiser uma Lista **POR ODEM**, será essa que você terá que fazer. Aqui estão alguns conceitos básicos e exemplos:
+ Em Java, a interface `List` faz parte da API de Collections e representa uma coleção **ordenada** de elementos, onde você pode acessar elementos por índice. No caso, se você quiser uma Lista **POR ORDEM**, será essa que você terá que fazer. Aqui estão alguns conceitos básicos e exemplos:
 
 ### 1. Declaração e criação de uma Lista:
 

@@ -1,4 +1,4 @@
-## O que é um HashMap?
+	## O que é um HashMap?
 
 **HashMap** é uma implementação da INTERFACE **Map** em Java que armazena pares de  chaves-valor (key, value). Ele não garante a ORDEM das inserção dos elementos e permite a associação rápida de valores a chaves **ÚNICAS**. Isso faz com que seja eficiente para buscar e recuperar valores com base em uma **CHAVE(KEY)** .
 
