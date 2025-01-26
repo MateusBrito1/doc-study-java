@@ -15,7 +15,7 @@ O principal objetivo deste repositório é documentar meu progresso na linguagem
 - Projetos Práticos e Desafios de Programação
 - Spring Boot
 
-📖 Fonte de Estudos
+## 📖 Fonte de Estudos
 
 Aqui estão algumas fontes que estou utilizando para aprender Java. Esta seção será atualizada continuamente com novos materiais:
 
