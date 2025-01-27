@@ -1,4 +1,4 @@
-## 📚 Doumentação de Estudos de Java
+## 📚 Documentação de Estudos de Java
 
 Bem-vindo ao meu repositório de estudos em Java! 🚀  
 Este espaço foi criado para registrar meu aprendizado, compartilhar anotações de código, meus pensamentos e explorar diferentes conceitos da linguagem Java. É como um segundo cerébro.  
